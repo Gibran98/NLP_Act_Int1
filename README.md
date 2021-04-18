@@ -36,4 +36,4 @@ clasificaciones por verso.
 - Todos los APIs mencionados requieren tokens o llaves, estos no se proporcionan en el Notebook, por lo que se tendrán que incluir para poder realizar exitosamente
 las requests.
 - Para la clasificación de audio, se proporcionan dos archivos de ejemplo en formato WAV que se pueden hacer. Nuevamente, sólo basta con cargarlos en el ambiente de
-- Colab para poder usarlos.
+Colab para poder usarlos.
