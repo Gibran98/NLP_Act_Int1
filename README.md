@@ -35,5 +35,7 @@ clasificaciones por verso.
 ## Notas adicionales
 - Todos los APIs mencionados requieren tokens o llaves, estos no se proporcionan en el Notebook, por lo que se tendrán que incluir para poder realizar exitosamente
 las requests.
+- Para obtener una llave para la API de Youtube se puede seguir el siguiente [tutorial](https://developers.google.com/youtube/registering_an_application?hl=es-419).
+- Para una llave del API de Genius se puede revisar la primera parte de este [link](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Genius-API.html).
 - Para la clasificación de audio, se proporcionan dos archivos de ejemplo en formato WAV que se pueden hacer. Nuevamente, sólo basta con cargarlos en el ambiente de
 Colab para poder usarlos.
